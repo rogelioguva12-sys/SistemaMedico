@@ -1,0 +1,6 @@
+@SistemaMedico_HostAddress = http://localhost:5028
+
+GET {{SistemaMedico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
